@@ -1,0 +1,44 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.11.4",
+    "heartbeatAt": "2024-04-29T23:31:24.205411",
+    "startedAt": "2024-04-29T23:31:23.694354",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/chansmi/semantic_uncertainty.git",
+        "commit": "27adbf0dc1bf056c771c205d89c2a79cbd82dc3a"
+    },
+    "email": "smith.18.chandler@gmail.com",
+    "root": "/Users/chandler/Desktop/semantic_uncertainty",
+    "host": "Hannahs-MacBook-Pro.local",
+    "username": "chandler",
+    "executable": "/usr/local/anaconda3/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2600,
+        "min": 2600,
+        "max": 2600
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2600,
+            "min": 2600,
+            "max": 2600
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 465.50199127197266,
+            "used": 455.78703689575195
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

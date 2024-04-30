@@ -4,6 +4,13 @@ channels:
   - defaults
   - conda-forge
 dependencies:
+  - conda-package1
+  - conda-package2
+  - pip:
+    - pip
+    - pip-package1
+    - pip-package2
+  - package-name=1.7.1
   - _libgcc_mutex=0.1=main
   - _openmp_mutex=5.1=1_gnu
   - blas=1.0=mkl
